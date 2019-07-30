@@ -1,0 +1,4 @@
+node_modules
+config/
+node-course-images/
+mongodb.js
